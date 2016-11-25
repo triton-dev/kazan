@@ -4,3 +4,5 @@ Panel visszarajzolva a nyomtatott áramkör alapján, DE
 az ellenállások, kondenzátorok értéke és számozása még eltér a panelétől
 
 A mikroprocesszor uj eagle lbr, be kell tölteni hazsnálat előtt!
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
