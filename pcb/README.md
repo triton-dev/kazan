@@ -5,4 +5,4 @@ az ellenállások, kondenzátorok értéke és számozása még eltér a panelé
 
 A mikroprocesszor uj eagle lbr, be kell tölteni hazsnálat előtt!
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/triton-dev/kazan/blob/master/pcb/pcb-oldal.jpg "Vezérlő panel nyák oldalról")
